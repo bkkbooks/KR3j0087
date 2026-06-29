@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3j0087/krp/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 跋右筆記三㢧以數本參訂粗少舛午景文公議論考據精切如此然前輩猶有一二可疑如骨䒳字蓋檛字古作䒳嘗飾以骨故曰骨䒳後世吏文略去草又䒳朵二聲相近故訛為朵耳鮑照因武曌而改為昭非誤用也冉耕字伯牛而古犁字亦從牛則牛耕不始於漢矣栘者今郁李也非開而反合者也酈道元水經注云薛瓉注漢書則謂臣瓉為于瓉者非也集韻一書乃景文公與諸公出朴字匹角切與朴同今謂朴無朴音何耶卯乃古卿字又音韲今謂卯本栁字又何耶衎既加㸃勘又以所聞於前輩者識其後寶慶二年四月初吉上虞李衎謹書
+  hash: sha256:fdf37cda2e00a58c6abc60053e55110aa46afa7f2676c7a7e3b71eb795be61d1
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3j0087_WYG_004-1a, image: WYG0862/WYG0862-0554c.png}
+metadata:
+  title: 宋景文筆記
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:22:41.451225'
+  juan_title: 跋
+  source:
+    repository: kanripo
+    path: KR3j0087/KR3j0087_004.txt
+hash: sha256:b4d3f8615c5c3dcf406b94306de9124ea083e251a31305ac7cf890da28acfbbf
